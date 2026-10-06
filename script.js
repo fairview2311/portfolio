@@ -1,5 +1,5 @@
 function greet(name) {
-  const message = "こんにちは、" + name + "さん";
+  const message = "こんにちは、" + name + "さん！";
   document.getElementById("message").textContent = message;
 }
 
